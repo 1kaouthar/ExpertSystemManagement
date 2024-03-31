@@ -2,26 +2,17 @@ Expert System Management
 This repository contains a Python implementation of an expert system for diagnosing PC malfunctions. The system is built using the tkinter library for the graphical user interface (GUI).
 
 Installation
-Clone the repository:
-
-bash
-Copy code
+1.Clone the repository:
 git clone https://github.com/1kaouthar/ExpertSystemManagement.git
-Navigate to the project directory:
+2.Navigate to the project directory:
 
-bash
-Copy code
 cd ExpertSystemManagement
-Install the required dependencies:
+3.Install the required dependencies:
 
-bash
-Copy code
 pip install tk
 Usage
 Run the following command to start the application:
 
-bash
-Copy code
 python main.py
 Features
 Expert Mode: Allows experts to manage and update the system's knowledge base.
@@ -33,5 +24,4 @@ Contributions are welcome! Feel free to submit pull requests or open issues for 
 
 License
 This project is licensed under the MIT License.
-
 
