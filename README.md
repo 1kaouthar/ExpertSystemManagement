@@ -41,5 +41,4 @@ Contributions are welcome! Feel free to submit pull requests or open issues for 
 
 This project is licensed under the [MIT License](LICENSE).
 
----
-*Note: Make sure to replace "your-username" in the clone URL with your GitHub username.*
+
